@@ -13,7 +13,7 @@ A GitHub repository intended to be the starting point for an extensive collectio
 
 ## Supplementary Information
 
-### Genealogy
+## Genealogy
 
 * Document family history and lineage.
 * Maintain records of family members and their relationships.
@@ -62,6 +62,16 @@ Here are two links to two different aspects of the project: website and source c
 * https://evereverland.github.io/2019 ~ earlier views of EverEverLand
 * https://github.com/evereverland/2019
 * https://evereverland.github.io/2019/#everlandings/README.md ~ Online archival collections of the efforts of different family, friends and acquaintances
+
+## Personal Items
+
+### Art Collection
+
+* https://evereverland.github.io/2019/#everlandings/theo-armour/README.md
+
+### Furniture and Personal Items
+
+* ![Hobart Appraisal Update 2024](https://drive.google.com/file/d/1ErPPqu1MZmlFBbtBGNv6Hy6s8zPIF1uj/view?usp=sharing)
 
 
 ## Change Log
