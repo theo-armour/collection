@@ -6,8 +6,8 @@ window.TOOTOO_CONFIG = {
   sourceRepoUrl: 'https://github.com/theo-armour/collection',
   themeColor: '#b03a6f',
   subtitle: 'a collection of personal and family things',
-  hiddenFiles: [ 'tootoo.config.js' ],
-  hiddenFolders: [],
+  hiddenFiles: ['favicon.ico','index.html','tootoo.config.js' ],
+  hiddenFolders: ['assets'],
   headingFont: '"Rammetto One", sans-serif',     // heading + title face
   headingFontUrl: 'https://fonts.googleapis.com/css2?family=Rammetto+One&display=swap',
 };
