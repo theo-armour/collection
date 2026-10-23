@@ -13,7 +13,7 @@ A GitHub repository intended to be the starting point for an extensive collectio
 
 ## Supplementary Information
 
-## Genealogy
+## Aermour _et al_Genealogy
 
 * Document family history and lineage.
 * Maintain records of family members and their relationships.
