@@ -13,22 +13,26 @@ A GitHub repository intended to be the starting point for an extensive collectio
 
 ## Supplementary Information
 
-## Aermour _et al_Genealogy
+## About Theo
 
-* Document family history and lineage.
-* Maintain records of family members and their relationships.
-* Provide a structured and searchable archive of genealogical information.
-* Provide evidence of the possible notability of relevant family members.
+See: https://theo-armour.github.io/
+
+## Armour _et al_ Genealogy
 
 See https://en.wikipedia.org/wiki/Wikipedia:Notability
 
-?On Wikipedia, notability is a test used by editors to decide whether a given topic warrants its own article.
+* Documents family history and lineage.
+* Maintains records of family members and their relationships.
+* Provides a structured and searchable archive of genealogical information.
+* Provides evidence of the possible notability of relevant family members For drafting articles for Wikipedia 
+
+On Wikipedia, notability is a test used by editors to decide whether a given topic warrants its own article.
 
 See: https://theo-armour.github.io/genealogy/
 
 ## San Francisco Ladies Protection and Relief Society
 
-The San Francisco Ladies Protection and Relief Societyis the Owner and operator of Heritage on the Marina, The retirement community for the elderly that has been my home since August 5, 2020.
+The San Francisco Ladies Protection and Relief Society is the Owner and operator of Heritage on the Marina, The retirement community for the elderly that has been my home since August 5, 2020.
 
 I'm involved in the creation, maintenance and updating of two of the following contributions. 
 
