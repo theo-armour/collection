@@ -10,8 +10,13 @@ A GitHub repository intended to be the starting point for an extensive collectio
 * Act as a catalog for links to the collected items in other locations
 * Provide a structured and searchable archive of the collection.
 
+## RFP-draft
 
-## Supplementary Information
+See [RFP-draft](RFP-draft/) for the draft of the Request for Proposal (RFP) for the collection project. This folder includes the initial ideas, requirements, and considerations for the RFP.
+
+## RFP Supplementary Information
+
+The request for proposal indicates that there is a link to a web page with more information. This is the web page with the supplementary information. 
 
 ## About Theo
 
