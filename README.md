@@ -83,7 +83,7 @@ See [Hobart Appraisal Update 2024](https://drive.google.com/file/d/1ErPPqu1MZmlF
 
 ## Change Log
 
-## 2026-10-25
+### 2026-10-25
 
 Cleaning up the text, adding a few more notes, and fixing a few bugs 
 
