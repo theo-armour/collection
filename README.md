@@ -1,7 +1,7 @@
 # Theo Armour / Collection README
 
-![Lou Armour Toen](assets/Lou-Armour-Toen.jpeg)
-_My granddaughter, born October 3, 2026: A good reason why it to do this sort of thing._
+<img src="assets/Lou-Armour-Toen.jpeg" alt="Lou Armour Toen" width="300"><br>
+_My granddaughter, born October 3, 2026: A good reason why to do this sort of thing._
 
 https://theo-armour.github.io/collection is a GitHub repository intended to be the starting point for an extensive collection of my personal and family "things".
 
