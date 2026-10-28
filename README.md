@@ -46,7 +46,14 @@ Very much a work in progress.
 
 On Wikipedia, notability is a test used by editors to decide whether a given topic warrants its own article.
 
-See https://en.wikipedia.org/wiki/Wikipedia:Notability
+See: https://en.wikipedia.org/wiki/Wikipedia:Notability
+
+In my book, everybody is notable. If there is a right to be forgotten, then there also must be a right to be remembered. Even so, I kind of enjoy looking up the ones that had fun, engaging, and perhaps therefore more notable lives. 
+
+I have put some of them in a list here that I call "Peeps in My Family".
+
+See: https://theo-armour.github.io/genealogy/#2026-10-27-Peeps-in-My-Family.md
+
 
 ## San Francisco Ladies Protection and Relief Society
 
