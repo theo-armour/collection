@@ -107,12 +107,23 @@ A significant part of the effort will be getting high-quality images of all of t
 
 See [Hobart Appraisal Update 2024](https://drive.google.com/file/d/1ErPPqu1MZmlFBbtBGNv6Hy6s8zPIF1uj/view?usp=sharing)
 
+## Websites
+
+I used to maintain dozens of websites With their own .com URLs. Now almost all of my websites point to WordPress.com websites or to GitHub Pages websites.
+
+There are still some websites left on Dreamhost and Bluehost servers that I have not yet brought over to GitHub or wherever, so that effort is part of the whole archiving project. 
 
 ## Change Log
 
 ### 2026-10-27
 
-Add further detail on the organization and structure of the collection, including updates to the RFP and supplemental information. 
+AI: Add further detail on the organization and structure of the collection, including updates to the RFP and supplemental information. 
+
+I'm reasonably happy with the current status of things. I kind of feel everything is sort of at an 80% good stage. Pareto effect is now kicking in: the 20% more would take a much longer time to complete.
+
+And, of course, I must leave space for the archivists to spin their magic.
+
+New bits include links to : "Peeps-in-My-Family" - which is now up on ./genealogy, Julia Morgan Building on GitHub and more.
 
 
 ### 2026-10-25
