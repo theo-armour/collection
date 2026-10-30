@@ -1,6 +1,7 @@
 # Theo Armour / Collection README
 
-<img src="assets/Lou-Armour-Toen.jpeg" alt="Lou Armour Toen" width="300"><br>
+<img src="images/Lou-Armour-Toen.jpeg" alt="Lou Armour Toen" width="300"><br>
+
 _My granddaughter, born October 3, 2026: A good reason why to do this sort of thing._
 
 https://theo-armour.github.io/collection is a GitHub repository intended to be the starting point for an extensive collection of my personal and family "things".
@@ -33,6 +34,10 @@ See: https://theo-armour.github.io/
 
 "You can see everything" about me here. ;-)
 
+This repository provides access to the sorts of things I've been doing in the most recent third of my life, in other words, everything here is online. Managing and curation of these efforts is very much part of the RFP. 
+
+
+
 ## Armour _et al_ Genealogy
 
 See: https://theo-armour.github.io/genealogy/
@@ -54,6 +59,7 @@ I have put some of them in a list here that I call "Peeps in My Family".
 
 See: https://theo-armour.github.io/genealogy/#2026-10-27-Peeps-in-My-Family.md
 
+Much of the information stored in the bank boxes in my storage locker is about these people. Linking source items to these people is very much part of the RFP. 
 
 ## San Francisco Ladies Protection and Relief Society
 
@@ -66,7 +72,9 @@ See:
 
 The San Francisco Ladies Protection and Relief Society is the owner and operator of Heritage on the Marina, the retirement community for the elderly that has been my home since August 5, 2020.
 
-I'm involved in the creation, maintenance and updating of the contributions noted above. I'm also the tenant-elected representative to the board of directors of the Society. 
+I'm involved in the creation, maintenance and updating of the contributions noted above. I'm also the tenant-elected representative to the board of directors of the Society.
+
+A good number of my current efforts are about archiving things. Establishing and sharing good practices for doing this sort of thing is very much part of the RFP.
 
 ## Julia Morgan Building
 
@@ -78,11 +86,15 @@ A significant building on the Heritage on the Marina property is the Julia Morga
 
 I'm involved in the creation, maintenance and updating of two of the above contributions. 
 
-The GitHub repository with much material is under construction, But should be online shortly 
+The GitHub repository with much material is under construction, but should be online shortly.
+
+The retirement community I live in includes the Julia Morgan building. We are in the process of affiliating with Sequoia Living. The campus will undergo a huge renovation, and I will be very much part of that. A good part of the effort will be the curation of what we know about Julia Morgan and her involvement with this building, and more. Thus, Julia Morgan is a significant part of this RFP. 
 
 ## EverEverLand
 
-An ongoing personal effort I started over 20 years ago. It's one of my major efforts. Here are two links to two different aspects of the project: website and source code.
+An ongoing personal effort I started over 20 years ago. It's one of my major efforts. Here are two links to two different aspects of the project: website and source code. Considering ways of embellishing and curating this effort is very much part of the RFP. 
+
+
 
 ### EverEverLand (2022)
 
@@ -99,6 +111,12 @@ An ongoing personal effort I started over 20 years ago. It's one of my major eff
 
 A significant part of the effort will be getting high-quality images of all of the following items: art collection, furniture, and personal items. 
 
+For just about every item in each of these collections here, I have a story to tell. A picture creates a thousand memories, or something. In other words, a picture is just as good as seeing the object itself for many of the purposes that I plan to use these images for.
+
+Of course, the picture does not have the "aura" as described by Walter Benjamin. The unique presence and authenticity of the original object cannot be fully captured in an image. 
+
+Nonetheless, by giving my story about the object and then making the physical item available to collectors of the future, I can provide a richer context and preserve the legacy of the source items for posterity. And so, dealing with these items themselves is very much part of the RFP. 
+
 ### Art Collection
 
 * https://evereverland.github.io/2019/#everlandings/theo-armour/README.md
@@ -114,6 +132,12 @@ I used to maintain dozens of websites With their own .com URLs. Now almost all o
 There are still some websites left on Dreamhost and Bluehost servers that I have not yet brought over to GitHub or wherever, so that effort is part of the whole archiving project. 
 
 ## Change Log
+
+2026-10-29
+
+* Added text giving reasons why each of the above elements is part of the RFP
+* Added correspondence as a visible folder. 
+
 
 ### 2026-10-27
 
