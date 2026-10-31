@@ -2,7 +2,7 @@
 
 **Subject:** RFP 0.2 draft — your feedback, folded in
 
-Hi Adrienne,
+Hi Adrienne (and Alix),
 
 Here is release 0.2 of the RFP, with the covering email for the mailing list. Your feedback did most of the work:
 
@@ -13,11 +13,18 @@ Here is release 0.2 of the RFP, with the covering email for the mailing list. Yo
 
 Per your earlier advice, I've kept fees and logistics out of the RFP itself — the budget section asks only for hours × rate and a rate card. Which brings me to the questions. A couple repeat my last email, in case it got buried:
 
-1. **Other groups.** Apart from the Society of California Archivists mailing list, are there other archival groups I should notify? I've seen mentions of the SAA Independent Archivists Section, Archives Gig, and the Academy of Certified Archivists directory — worth the trouble?
+1. **Other groups.** Apart from the Society of California Archivists mailing list, are there other archival groups I should notify? I've seen mentions of the [Archives Gig](https://archivesgig.com/), and the [Academy of Certified Archivists]( https://www.certifiedarchivists.org/ ) directory — worth the trouble?
 
 2. **Timing.** I'm thinking of sending this out in the next week or so, asking people simply to indicate interest by the end of November, with full proposals due January 15 so nobody is writing over the holidays. Does that sound okay?
 
-3. **Numbers.** Are the figures from my last email realistic? Walkthrough at the archivist's hourly rate for up to two hours, around $250; Phase 1 assessment and master plan in the $2,000–$5,000 range. I'd rather hear now if that range would make experienced people pass. 
+3. **Numbers.** Are the figures from my last email realistic? Walkthrough at the archivist's hourly rate for up to two hours, around $250;
+Phase 1 could be a bit tricky to estimate, depending on the depth of assessment and planning required.
+It be either on the lower end if the assessment is straightforward, or higher if it requires deep investigation and planning.
+
+* Light Phase 1 assessment and master plan in the $2,000–$5,000 range?
+* Detailed Phase 1 assessment and master plan could go higher, $5,000 to $10,000 depending on the complexity and volume of material?
+
+    I'd rather hear now if what range would make experienced people enthusiastic.
 
 4. **Credit and compensation.** You have been wonderful. May I credit you in the RFP as my advisor on this project? And how can I compensate you for your time — including, I hope, some paid consulting as this moves ahead?
 
@@ -26,3 +33,5 @@ Per your earlier advice, I've kept fees and logistics out of the RFP itself — 
 With thanks, as ever,
 
 Theo
+
+PS I'm copying Alix, my eldest daughter, on this message.

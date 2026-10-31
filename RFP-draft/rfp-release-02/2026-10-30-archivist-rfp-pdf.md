@@ -1,16 +1,16 @@
 # Armour Collection<br>Archival Assessment and Master Plan
 
-*A request for proposals from Theo Armour, San Francisco ~ Release 0.2, October 2026*
+*A request for proposals from Theo Armour, San Francisco*
 
 ## ☞ Overview
 
 I'm looking for a Bay Area archivist to assess a large, mixed family and personal collection and write a master plan for it, and then, if we work well together, to lead the work that follows. I have spent my life as a designer. This archive is the design I most want to get right: free and open, useful to future generations, and a small experiment in what archiving and historiography may become in the age of AI.
 
 One item from the collection:<br>
-![Portrait of Empress Elizabeth of Russia in a carved gilt frame](Elizabeth-of-Russia-500px.jpg)<br>
-*An 18th-century portrait of Empress [Elizabeth of Russia](https://en.wikipedia.org/wiki/Elizabeth_of_Russia). Her hands are missing because the canvas was cut from its frame when the Koudacheff family escaped St Petersburg in 1918.*
+![Portrait of Empress Elizabeth of Russia in a carved gilt frame](../../images/Elizabeth-of-Russia-500px.jpg)<br>
+*An 18th-century portrait of Empress [Elizabeth of Russia](https://en.wikipedia.org/wiki/Elizabeth_of_Russia). Her hands are missing because the canvas was cut from its frame when the Koudacheff family escaped St. Petersburg in 1918.*
 
-I'd especially welcome a partner who wants to try things: AI-assisted description, open metadata on GitHub, whatever you've wanted to test and never had a client willing to let you.
+I'd especially welcome a partner who wants to try things: AI-assisted descriptions, open metadata on GitHub, whatever you've wanted to test and never had a client willing to let you.
 
 ## ⌘ The outcome
 
@@ -24,13 +24,13 @@ I am not building an independent archive that I fund and staff. The aim is place
 ## ❖ The Collection
 
 * **Extent of documents:** about 200 linear feet, mostly in bank boxes, in two indoor storage units in San Francisco. There are also oversize architectural drawings.
-* **Art and objects:** about 30 works of art, several of museum quality, in a separate art storage facility, plus furniture and _objets d'art_. An older appraisal exists.
+* **Art and objects:** about 30 works of art, several of which are museum quality, in a separate art storage facility, plus furniture and _objets d'art_. An older appraisal exists.
 * **Dates:** 1700s to the present, mostly from the 1970s onward.
 * **Formats:** letters, postcards, photographs, slides, negatives, architectural drawings (some large-format), business records, publications, clippings, notebooks, manuals, software, audio, and data media. A fuller list of source material types is in the [supplement](https://theo-armour.github.io/collection/#RFP-draft/Documents/source-material-types.md).
 * **Born-digital:** files on hard drives, Dropbox, Google Drive, and GitHub. Legacy media is likely in the boxes, extent unknown: floppies, CDs/DVDs, audio and video tapes, and old software such as AutoCAD.
 * **Arrangement and condition:** order is quite mixed, with no reliable original order across boxes. There is some room in the units to open boxes. I know of no mold, pests, or water damage, but the survey should confirm this. [Photos of the storage units](https://photos.app.goo.gl/wtbCBGQZkpsRBS6v6).
 
-**Two threads run through it all.** One is family, with papers connected to [Norman Armour](https://en.wikipedia.org/wiki/Norman_Armour), [George Armour](https://en.wikipedia.org/wiki/George_Armour), [Albert Burrage](https://en.wikipedia.org/wiki/Albert_Burrage), [Walter Lowrie](https://en.wikipedia.org/wiki/Walter_Lowrie_(author)), and the [Koudacheff (Kudashev) family](https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%B4%D0%B0%D1%88%D0%B5%D0%B2%D1%8B). The other is my own career, which I half-seriously call "Three Ways Theo Helped Change the World." Whether or not that claim holds up, I believe the ordinary working records of ordinary people deserve keeping. ;-)
+**Two threads run through it all.** One is family, with papers connected to [Norman Armour](https://en.wikipedia.org/wiki/Norman_Armour), [George Armour](https://en.wikipedia.org/wiki/George_Armour), [Albert Burrage](https://en.wikipedia.org/wiki/Albert_Burrage), [Walter Lowrie](https://en.wikipedia.org/wiki/Walter_Lowrie_(author)), and the [Koudacheff (Kudashev) family](https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%B4%D0%B0%D1%88%D0%B5%D0%B2%D1%8B). The other is my own career, which I half-seriously call "Three Ways Theo Helped Change the World." Whether or not that claim holds up, I believe the ordinary working records of ordinary people deserve keeping. \;\-\)
 
 **Who created the records.** Most of the material is primary sources created or accumulated by the relatives named above: their letters, photographs, and business papers. There are some secondary materials, such as clippings and publications, kept mainly where I suspect no one else has preserved them well. My own personal and professional papers form a second collection, distinct from the family materials.
 
@@ -50,7 +50,7 @@ An on-site survey with me present as needed, followed by a written plan covering
 
 I expect this scope may suit a firm or team as well as a solo archivist with a strong network — tell me which you are and how you would structure the work.
 
-* **Phase 2, triage and digitization:** an experienced archivist opens boxes, identifies what each item is, and decides where it goes: in-house scanning, specialist digitization, donation, sale, or recycling. Items are batched to the right specialists: sheet-feed scanning, large-format photography, film and slide scanning, AV transfer, disk imaging, object or 3D photography. Receiving institutions may prefer to digitize or process some material themselves, or to specify standards; the plan should anticipate that.
+* **Phase 2, triage and digitization:** an experienced archivist opens boxes, identifies what each item is, and decides where it goes: in-house scanning, specialist digitization, donation, sale, or recycling. Items are batched to the right specialists: sheet-fed scanning, large-format photography, film and slide scanning, AV transfer, disk imaging, and object or 3D photography. Receiving institutions may prefer to digitize or process some material themselves, or to specify standards; the plan should anticipate that.
 * **Phase 3, management and transfer:** a landing zone for files, consistent naming, item or folder-level metadata, and transfer to long-term free homes (Internet Archive, Permanent.org, GitHub) with fixity checks and redundancy. No ongoing hosting costs.
 * **Placement:** help approaching Princeton (Norman Armour, Walter Lowrie), the Art Institute of Chicago (George Armour), and institutions interested in Koudacheff material.
 
@@ -62,7 +62,7 @@ I expect this scope may suit a firm or team as well as a solo archivist with a s
 * **Disposition:** we agree on rules up front, you apply them, and you bring exceptions to me. Nothing is recycled until I've had a chance to review it.
 * **Access:** open by default. You flag sensitive material (third-party correspondence, living people, medical, financial, legal, and confidential business records) and recommend a policy. I make the final calls.
 * **Art and objects:** in scope for photography, basic documentation, and finding provenance papers in the boxes. Monetary appraisal, including appraisal of donations for tax purposes, and art placement are referred to qualified appraisers and advisors.
-* **Description after digitization:** largely my future responsibility, with human, AI and your help, over the years ahead.
+* **Description after digitization:** largely my future responsibility over the years ahead, with help from you, other people, and AI.
 
 ## ✎ Deliverables (Phase 1)
 
@@ -72,7 +72,7 @@ I expect this scope may suit a firm or team as well as a solo archivist with a s
 
 ## ⚖︎ Budget and terms
 
-* Please estimate Phase 1 as **hours × rate**, showing survey days and report hours separately.
+* Please estimate Phase 1 using **hours × rate**, showing survey days and report hours separately.
 * For Phases 2–3, please include a **rate card**: hourly rates, per-item digitization rates by format, and how specialist costs are billed (pass-through or markup).
 * I prefer hourly or per-item pricing to a lump sum, paid in phases or as a retainer. Later phases have no fixed end date.
 * Quality over speed.
@@ -90,13 +90,13 @@ I expect this scope may suit a firm or team as well as a solo archivist with a s
 
 Please send, in any format you like:
 
-* Your approach to Phase 1, and a sample or outline of a comparable assessment report.
+* Your approach to Phase 1 and a sample or outline of a comparable assessment report.
 * Your Phase 1 estimate (hours × rate) and a Phases 2–3 rate card.
-* How you would lead Phases 2–3: your specialists, how you'd coordinate them, and how you'd handle legacy digital media (e.g. write-blocked imaging, BitCurator, AV transfer vendors).
+* How you would lead Phases 2–3: your specialists, how you'd coordinate them, and how you'd handle legacy digital media (e.g., write-blocked disk imaging, BitCurator, and AV transfer vendors).
 * Relevant experience with family, personal, architectural, or born-digital collections.
 * Two or three references.
 * Whether Phase 2 would need an off-site workspace, and what it would cost.
-* Tell me about the most surprising thing you've found in a box - and what you learned from it.
+* Tell me about the most surprising thing you've found in a box — and what you learned from it.
 
 ## ☏ Contact and timeline
 
@@ -104,7 +104,7 @@ Please send, in any format you like:
 * **Interest:** please let me know you're interested by **November 30, 2026** — a sentence or two is plenty.
 * **Walkthrough:** before you write a proposal, I'm glad to show you the storage units. I'll pay your hourly rate for up to two hours.
 * **Proposals due:** January 15, 2027
-* **Start:** Early 2027 or upon agreement
+* **Start:** early 2027 or upon agreement
 * **Phase 1 report:** within 6–8 weeks of the on-site survey
 
 Questions and an early conversation are very welcome. Thank you for reading. I hope this sounds like a project you'd enjoy.
@@ -123,4 +123,4 @@ More detail lives in the collection's GitHub repository and website:
 
 <center>❧❧❧</center>
 <br>
-<center><img src="../theo-logo-32.svg" alt="Theo Armour Logo"></center>
+<center><img src="../../assets/theo-logo-32.svg" alt="Theo Armour Logo" style="width: 32px;"></center>

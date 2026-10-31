@@ -20,10 +20,12 @@ The collection runs from the 1700s to today and follows two threads. One is fami
 
 The other is my own working life, spanning architecture, software, and cultural institutions:
 
-* Renovating old buildings with a [tenant/worker cooperative](https://www.brockley-tenants-co-op.co.uk/sub-page/14/history.html "Solon Housing Association") in South London and [swimming the English Channel](https://www.channelswimmingassociation.com/awards?award=&year=1980 "Did not finish") in the 1970s, then designing 12 [Hong Kong subway stations](https://en.wikipedia.org/wiki/Island_line_(MTR) "Island Line") in the 1980s.
-* Selling and demonstrating computer-aided design software to highly receptive audiences in China, Taiwan, and Korea, then designing three [AutoCAD](https://en.wikipedia.org/wiki/AutoCAD) releases for [Autodesk](https://en.wikipedia.org/wiki/Autodesk) in the 1990s that were prime movers in the change from drafting on paper to designing on computer screens.
-* Working with web and open-source communities, [Three.js](https://en.wikipedia.org/wiki/Three.js) and web-based 3D graphics, and now exploring AI applications in architecture and digital archiving.
-* Serving on the board of the [Peggy Guggenheim Collection](https://en.wikipedia.org/wiki/Peggy_Guggenheim_Collection) in Venice from 2001 to 2009, and now on the board of the [San Francisco Ladies Protection and Relief Society](https://en.wikipedia.org/wiki/San_Francisco_Ladies_Protection_and_Relief_Society).
+* **1970s**: Study for and gain membership in the Royal Institute of British Architects. Renovate dozens of old buildings with a [tenant/worker cooperative](https://www.brockley-tenants-co-op.co.uk/sub-page/14/history.html "Solon Housing Association") in South London. [Swim the English Channel](https://www.channelswimmingassociation.com/awards?award=&year=1980 "Did not finish")
+* **1980s**: Marry in [Picardie](https://en.wikipedia.org/wiki/Ressons-le-Long) and start a family. Design twelve [Hong Kong subway stations](https://en.wikipedia.org/wiki/Island_line_(MTR) "Island Line"). Promote and demonstrate computer-aided design software (CAD) to highly receptive audiences in China, Taiwan, and Korea.
+* **1990s**: Design three [AutoCAD](https://en.wikipedia.org/wiki/AutoCAD) releases for [Autodesk](https://en.wikipedia.org/wiki/Autodesk) — prime movers in the change from drafting on paper to designing on computer screens.
+* **2000s**: Serve on the board of the [Peggy Guggenheim Collection](https://en.wikipedia.org/wiki/Peggy_Guggenheim_Collection) in Venice. Build websites and help startups that mostly go nowhere.
+* **2010s**: Work with web and open-source communities, [Three.js](https://en.wikipedia.org/wiki/Three.js) and web-based 3D graphics.
+* **2020s**: Serve on the board of the [San Francisco Ladies Protection and Relief Society](https://en.wikipedia.org/wiki/San_Francisco_Ladies_Protection_and_Relief_Society). Explore AI applications in architecture and digital archiving.
 
 The papers include letters, photos, slides, negatives, large-format drawings, and business records, and some of the artworks are museum quality. One favorite: an 18th-century portrait of Empress Elizabeth of Russia, cut from its frame when my family escaped St. Petersburg in 1918.
 
