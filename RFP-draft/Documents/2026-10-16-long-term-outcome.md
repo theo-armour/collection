@@ -24,7 +24,7 @@ In that the sources, the digital results are all openly accessible, certain item
 
 The general view is to recycle the source objects unless there is a good reason for preserving the object. 
 
-Primary sources that relate to certain individuals, such as Mormon Armour and Walter Lowrie, will be offered to the Library, Princeton University as items that may be added to their existing collections for these individuals.
+Primary sources that relate to certain individuals, such as Normon Armour and Walter Lowrie, will be offered to the Library, Princeton University as items that may be added to their existing collections for these individuals.
 
 Items of museum quality will be offered to institutions That are likely to acquire the objects For example, the objects relating to George Armour might be offered to the Chicago Art Institute, and the items relating to the Kudashevs might be offered to one of the Hermitage institutions. 
 

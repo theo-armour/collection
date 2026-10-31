@@ -1,2 +1,6 @@
-.vscode/
+.vscode/*
+!.vscode/
+.vscode/*
+!.vscode/settings.json
+!.vscode/markdown-pdf.css
 /rfp/.archivist-rfp-archive/

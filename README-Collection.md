@@ -36,8 +36,6 @@ See: https://theo-armour.github.io/
 
 This repository provides access to the sorts of things I've been doing in the most recent third of my life, in other words, everything here is online. Managing and curation of these efforts is very much part of the RFP. 
 
-
-
 ## Armour _et al_ Genealogy
 
 See: https://theo-armour.github.io/genealogy/
@@ -93,8 +91,6 @@ The retirement community I live in includes the Julia Morgan building. We are in
 ## EverEverLand
 
 An ongoing personal effort I started over 20 years ago. It's one of my major efforts. Here are two links to two different aspects of the project: website and source code. Considering ways of embellishing and curating this effort is very much part of the RFP. 
-
-
 
 ### EverEverLand (2022)
 
