@@ -4,9 +4,9 @@ This document provides an overview and instructions related to the RFP (Request 
 
 ## RFP RFP Release 0.1
 
-* Draft release sent to Andrea and Adrienne
+* Draft release sent to my advisors
 * Feedback received and incorporated into the next iteration
 
 ## RFP Draft Release 0.2
 
-* 2026-10-31 ~ Draft release sent to Adrienne (and Alix)
+* 2026-10-31 ~ Draft release sent to my advisor (and Alix)
