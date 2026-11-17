@@ -2,7 +2,7 @@
 
 ## Preface
 
-This paper follows on from Adrienne Storey's request for a bit of detail about what I'm trying to do. Quotes are from her email of August 28.
+This paper follows on from my advisor's request for a bit of detail about what I'm trying to do. Quotes are from her email of August 28.
 
 ## Overview
 
@@ -108,7 +108,7 @@ A third aspect: I live at the epicenter of where all newfangled technologies are
 
 ***
 
-**Notes for Adrienne**
+**Notes for my advisor**
 
 ## Project Funding
 

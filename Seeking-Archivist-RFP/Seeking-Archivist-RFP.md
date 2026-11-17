@@ -1,5 +1,5 @@
 
-**Subject:** Seeking archivist: paid assessment of Armour family + AutoCAD-era papers, 200 linear ft, San Francisco
+## Subject: Seeking archivist: paid assessment of Armour family + AutoCAD-era papers, 200 linear ft, San Francisco
 
 Hello SCA/West-Arch colleagues,
 
@@ -28,6 +28,6 @@ With thanks,
 
 Theo
 
-Theo Armour
-t.armour@gmail.com
+Theo Armour<br>
+t.armour@gmail.com<br>
 415 828-0000

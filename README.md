@@ -18,15 +18,15 @@ https://theo-armour.github.io/collection is a GitHub repository intended to be t
 
 The repository is currently in the early stages of development.
 
-I'm in the process of creating a request for proposal (RFP) for the collection project. The RFP will be sent to members of the the various societies of archivists.
+On 2026-11-17 I sent a short email to the West_Arch mailing list seeking an experienced personal archivist for a paid initial assessment of my family and personal papers. The text of the email is here: [Seeking-Archivist-RFP.md](Seeking-Archivist-RFP/Seeking-Archivist-RFP.md).
 
-The RFP itself is in its own folder: [RFP-draft](RFP-draft/). This folder includes the initial ideas, requirements, and considerations for the RFP.
+The request is deliberately narrow: an assessment of the papers, with a phased plan and cost estimate. The rest of this page describes the wider collection. It is background for the assessment and possible material for later phases, not part of the current request.
 
-The RFP refers to RFP supplemental information, which is currently here:
+Earlier, longer drafts of the request for proposal (RFP) are in [Seeking-Archivist-RFP/RFP-draft](Seeking-Archivist-RFP/RFP-draft/). The email above replaces them.
 
-## RFP Supplementary Information
+## Supplementary Information
 
-The request for proposal indicates that there is a link to a web page with more information. This is the web page with the supplementary information.
+The email links to this page for more about the collection. This is that page.
 
 ## About Theo
 
@@ -34,7 +34,7 @@ See: https://theo-armour.github.io/
 
 "You can see everything" about me here. ;-)
 
-This repository provides access to the sorts of things I've been doing in the most recent third of my life, in other words, everything here is online. Managing and curation of these efforts is very much part of the RFP.
+This repository provides access to the sorts of things I've been doing in the most recent third of my life, in other words, everything here is online. Managing and curation of these efforts is a possible later phase.
 
 ## Armour _et al_ Genealogy
 
@@ -57,7 +57,7 @@ I have put some of them in a list here that I call "Peeps in My Family".
 
 See: https://theo-armour.github.io/genealogy/#2026-10-27-Peeps-in-My-Family.md
 
-Much of the information stored in the bank boxes in my storage locker is about these people. Linking source items to these people is very much part of the RFP.
+Much of the information stored in the bank boxes in my storage locker is about these people. These papers are the subject of the current request. Linking source items to these people comes later.
 
 ## San Francisco Ladies Protection and Relief Society
 
@@ -72,7 +72,7 @@ The San Francisco Ladies Protection and Relief Society is the owner and operator
 
 I'm involved in the creation, maintenance and updating of the contributions noted above. I'm also the tenant-elected representative to the board of directors of the Society.
 
-A good number of my current efforts are about archiving things. Establishing and sharing good practices for doing this sort of thing is very much part of the RFP.
+A good number of my current efforts are about archiving things. Establishing and sharing good practices for doing this sort of thing is part of the wider project, not the current request.
 
 ## Julia Morgan Building
 
@@ -86,11 +86,11 @@ I'm involved in the creation, maintenance and updating of two of the above contr
 
 The GitHub repository with much material is under construction, but should be online shortly.
 
-The retirement community I live in includes the Julia Morgan building. We are in the process of affiliating with Sequoia Living. The campus will undergo a huge renovation, and I will be very much part of that. A good part of the effort will be the curation of what we know about Julia Morgan and her involvement with this building, and more. Thus, Julia Morgan is a significant part of this RFP.
+The retirement community I live in includes the Julia Morgan building. We are in the process of affiliating with Sequoia Living. The campus will undergo a huge renovation, and I will be very much part of that. A good part of the effort will be the curation of what we know about Julia Morgan and her involvement with this building, and more. This is a separate effort and not part of the current request.
 
 ## EverEverLand
 
-An ongoing personal effort I started over 20 years ago. It's one of my major efforts. Here are two links to two different aspects of the project: website and source code. Considering ways of embellishing and curating this effort is very much part of the RFP.
+An ongoing personal effort I started over 20 years ago. It's one of my major efforts. Here are two links to two different aspects of the project: website and source code. Considering ways of embellishing and curating this effort is a possible later phase.
 
 ### EverEverLand (2022)
 
@@ -111,7 +111,7 @@ For just about every item in each of these collections here, I have a story to t
 
 Of course, the picture does not have the "aura" as described by Walter Benjamin. The unique presence and authenticity of the original object cannot be fully captured in an image.
 
-Nonetheless, by giving my story about the object and then making the physical item available to collectors of the future, I can provide a richer context and preserve the legacy of the source items for posterity. And so, dealing with these items themselves is very much part of the RFP.
+Nonetheless, by giving my story about the object and then making the physical item available to collectors of the future, I can provide a richer context and preserve the legacy of the source items for posterity. And so, dealing with these items themselves is a possible later phase.
 
 ### Art Collection
 
@@ -129,9 +129,14 @@ There are still some websites left on Dreamhost and Bluehost servers that I have
 
 ## Change Log
 
+### 2026-11-17
+
+* Email seeking an archivist sent to the West_Arch mailing list
+* Current Status updated; the wider collection is now described as background and later phases, not part of the current request
+
 ### 2026-10-30
 
-* Draft RFP 0.2 released to Adrienne (and Alix)
+* Draft RFP 0.2 released to my advisor (and Alix)
 
 ### 2026-10-29
 
