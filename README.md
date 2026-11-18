@@ -18,7 +18,7 @@ https://theo-armour.github.io/collection is a GitHub repository intended to be t
 
 The repository is currently in the early stages of development.
 
-On 2026-11-17 I sent a short email to the West_Arch mailing list seeking an experienced personal archivist for a paid initial assessment of my family and personal papers. The text of the email is here: [Seeking-Archivist-RFP.md](https://theo-armour.github.io/collection/Seeking-Archivist-RFP/Seeking-Archivist-RFP.md).
+On 2026-11-17 I sent a short email to the West_Arch mailing list seeking an experienced personal archivist for a paid initial assessment of my family and personal papers. The text of the email is here: [Seeking-Archivist-RFP.md](https://theo-armour.github.io/collection/#Seeking-Archivist-RFP/Seeking-Archivist-RFP.md).
 
 The request is deliberately narrow: an assessment of the papers, with a phased plan and cost estimate. The rest of this page describes the wider collection. It is background for the assessment and possible material for later phases, not part of the current request.
 
