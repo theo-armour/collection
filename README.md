@@ -9,10 +9,10 @@ https://theo-armour.github.io/collection is a GitHub repository intended to be t
 ## Purpose of this Repository
 
 * Document and sharing the process of creating a template and enabling of online collections
-* Serve as a central hub for managing, maintaining, and sharing the collection.
-* Act as a repository from which the material can be accessed and utilized.
+* Serve as a central hub for managing, maintaining, and sharing the collection
+* Act as a repository from which the material can be accessed and utilized
 * Act as a catalog for links to the collected items in other locations
-* Provide a structured and searchable curation of the collection.
+* Provide a structured and searchable curation of the collection
 
 ## Current Status
 
@@ -24,9 +24,11 @@ The request is deliberately narrow: an assessment of the papers, with a phased p
 
 Earlier, longer drafts of the request for proposal (RFP) are in [Seeking-Archivist-RFP/RFP-draft](https://theo-armour.github.io/collection/#Seeking-Archivist-RFP/RFP-draft/README.md).
 
+Please note: this and other pages on this website are likely to change frequently. And because this page is maintained on GitHub, every single "push" is recorded in the history of this repository.
+
 ## Supplementary Information
 
-The email links to this page for more about the collection. This is that page.
+The Seeking Archivist RFP email links to this page for more about the collection. This is that page.
 
 ## About Theo
 
@@ -34,7 +36,7 @@ See: https://theo-armour.github.io/
 
 "You can see everything" about me here. ;-)
 
-This repository provides access to the sorts of things I've been doing in the most recent third of my life, in other words, everything here is online. Managing and curation of these efforts is a possible later phase.
+This repository provides access to the sorts of things I've been doing in the most recent third of my life, in other words, everything here is online. Managing and curation of these higgledy-piggledy efforts is a possible later phase.
 
 ## Changing the World
 
@@ -63,7 +65,7 @@ I have put some of them in a list here that I call "Peeps in My Family".
 
 See: https://theo-armour.github.io/genealogy/#Peeps-in-My-Family.md
 
-Much of the information stored in the bank boxes in my storage locker is about these people. These papers are the subject of the current request. Linking source items to these people comes later.
+Much of the information stored in the bank boxes in my storage locker is about these people. These papers are the subject of the current request. Linking the primary and secondary source items in storage to these people is the first step in establishing a comprehensive archival record.
 
 ## San Francisco Ladies Protection and Relief Society
 
@@ -132,6 +134,10 @@ See [Hobart Appraisal Update 2024](https://drive.google.com/file/d/1ErPPqu1MZmlF
 I used to maintain dozens of websites With their own .com URLs. Now almost all of my websites point to WordPress.com websites or to GitHub Pages websites.
 
 There are still some websites left on Dreamhost and Bluehost servers that I have not yet brought over to GitHub or wherever, so that effort is part of the whole archiving project.
+
+## Conclusion
+
+The priority of this proposal is the digitization of all paper documents and physical objects. The subsequent phases will involve organizing, cataloging, and providing context for these materials and the already digital materials to create a comprehensive archival record.
 
 ## Change Log
 
