@@ -36,6 +36,12 @@ See: https://theo-armour.github.io/
 
 This repository provides access to the sorts of things I've been doing in the most recent third of my life, in other words, everything here is online. Managing and curation of these efforts is a possible later phase.
 
+## Changing the World
+
+I’ve spent my life in the headline business. In architecture we called them renderings. In software we called them demos.
+
+["I have changed the world three times."]()
+
 ## Armour _et al_ Genealogy
 
 See: https://theo-armour.github.io/genealogy/
@@ -129,10 +135,12 @@ There are still some websites left on Dreamhost and Bluehost servers that I have
 
 ## Change Log
 
+
 ### 2026-11-17
 
 * Email seeking an archivist sent to the West_Arch mailing list
 * Current Status updated; the wider collection is now described as background and later phases, not part of the current request
+* Checking links and carrying out minor edits
 
 ### 2026-10-30
 
