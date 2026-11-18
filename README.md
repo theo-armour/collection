@@ -22,7 +22,7 @@ On 2026-11-17 I sent a short email to the West_Arch mailing list seeking an expe
 
 The request is deliberately narrow: an assessment of the papers, with a phased plan and cost estimate. The rest of this page describes the wider collection. It is background for the assessment and possible material for later phases, not part of the current request.
 
-Earlier, longer drafts of the request for proposal (RFP) are in [Seeking-Archivist-RFP/RFP-draft](Seeking-Archivist-RFP/RFP-draft/README.mdhe email above replaces them.
+Earlier, longer drafts of the request for proposal (RFP) are in [Seeking-Archivist-RFP/RFP-draft](Seeking-Archivist-RFP/RFP-draft/README.md).
 
 ## Supplementary Information
 
