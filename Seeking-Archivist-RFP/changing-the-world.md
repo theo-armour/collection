@@ -4,7 +4,11 @@ Theo Armour ~ r3 ~ 2026-11-17
 
 I have changed the world three times.
 
-Not everyone can say that. It is a statement that is both intentionally facetious and yet has a truthiness somewhere. Even my most self-deprecating self admits that it probably important to take credit for the good things that one believes one has done. So let me justify this statement. Or perhaps I should say, "Let **us** justify this statement because a lot of this archiving project is about finding meaning, exploring the lessons learned and simply recording for the history books some events of possible interest.
+Not everyone can say that. It is a statement that is both intentionally facetious and yet has a truthiness somewhere. Even my most self-deprecating self admits that it probably important to take credit for the good things that one believes one has done. So let me justify this statement. Or perhaps I should say, "Let **us** justify this statement" because a lot of this archiving project you may well be involved with is about finding meaning, exploring the lessons learned and simply recording for the history books some events of possible interest. And so often these aspects are revealed via being involved in a great dialogue.
+
+***
+
+Every time I read this text, I can think of "a million" things to add. But what I feel is really important is to be able to link current observations to the primary and secondary sources from the source era. And upon nearly entering my eighth decade, the clock is ticking on my abilities to do this.
 
 ## First Change
 
@@ -24,9 +28,9 @@ My first trip to China was in 1978. Mainland China was still running trains with
 
 In 1978 all writing, calculating, and drawing in China was done on paper. By 1991 China was the world's largest producer of computers - designed and built using the computers they made.
 
-I became very much a part of this. In my early days in Hong Kong, I was number 3 on a team of 75 designing 12 subway stations. All the architecture work was on A0-size paper drawings created by draftsman. Much of the engineering work was done on the computer. We architects had a lot of trouble keeping up.
+I became very much a part of this. In my early days in Hong Kong, I was number 3 on a team of 75 designing 12 subway stations in Hong Kong. All the architecture work was on A0-size paper drawings created by draftsman. Much of the engineering work was done on the computer. We architects had a lot of trouble keeping up.
 
-By 1983, I had quit my job as an architect and started working as a computer-aided design consultant. First, on IBM mainframes, and then the IBM PC arrived.
+By 1983, having a glimpse of the future, I had quit my job as an architect and started working as a computer-aided design consultant. First, on IBM mainframes, and then the IBM PCs arrived.
 
 The driver to all this was computer software. Most of the software was copied illegally. The most copied software programs were Lotus 123, WordStar, AutoCAD, and dBase. AutoCAD is a program for creating engineering drawings and designs on a computer screen. At the time it was one of the most copied programs in China. Why, because you can use AutoCAD to design factories. And China wanted to build factories. And Universities. And trains and whatever. And AutoCAD was the tool they used to design these things.
 
@@ -115,4 +119,4 @@ What is next? I don't know. But I am ready.
 
 ### 2026-11-17
 
-I so look forward to reading all the notes, papers, and documents that I created during these years, and being able to reflect upon them and let you know what I learned and what may be relevant to us today. 
+I so look forward to reading all the notes, papers, and documents that I created during these years, and being able to reflect upon them and let you know what I learned and what may be relevant to us today.

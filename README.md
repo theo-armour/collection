@@ -40,7 +40,7 @@ This repository provides access to the sorts of things I've been doing in the mo
 
 I’ve spent my life in the headline business. In architecture we called them renderings. In software we called them demos.
 
-["I have changed the world three times."](https://theo-armour.github.io/collection/#Seeking-Archivist-RFP#changing-the-world.md)
+["I have changed the world three times."](https://theo-armour.github.io/collection/#Seeking-Archivist-RFP/changing-the-world.md)
 
 ## Armour _et al_ Genealogy
 
