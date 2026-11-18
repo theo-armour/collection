@@ -18,11 +18,11 @@ https://theo-armour.github.io/collection is a GitHub repository intended to be t
 
 The repository is currently in the early stages of development.
 
-On 2026-11-17 I sent a short email to the West_Arch mailing list seeking an experienced personal archivist for a paid initial assessment of my family and personal papers. The text of the email is here: [Seeking-Archivist-RFP.md](Seeking-Archivist-RFP/Seeking-Archivist-RFP.md).
+On 2026-11-17 I sent a short email to the West_Arch mailing list seeking an experienced personal archivist for a paid initial assessment of my family and personal papers. The text of the email is here: [Seeking-Archivist-RFP.md](https://theo-armour.github.io/collection/Seeking-Archivist-RFP/Seeking-Archivist-RFP.md).
 
 The request is deliberately narrow: an assessment of the papers, with a phased plan and cost estimate. The rest of this page describes the wider collection. It is background for the assessment and possible material for later phases, not part of the current request.
 
-Earlier, longer drafts of the request for proposal (RFP) are in [Seeking-Archivist-RFP/RFP-draft](Seeking-Archivist-RFP/RFP-draft/README.md).
+Earlier, longer drafts of the request for proposal (RFP) are in [Seeking-Archivist-RFP/RFP-draft](https://theo-armour.github.io/collection/#Seeking-Archivist-RFP/RFP-draft/README.md).
 
 ## Supplementary Information
 
@@ -40,7 +40,7 @@ This repository provides access to the sorts of things I've been doing in the mo
 
 I’ve spent my life in the headline business. In architecture we called them renderings. In software we called them demos.
 
-["I have changed the world three times."]()
+["I have changed the world three times."](https://theo-armour.github.io/collection/#Seeking-Archivist-RFP#changing-the-world.md)
 
 ## Armour _et al_ Genealogy
 
