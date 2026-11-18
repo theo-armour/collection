@@ -78,7 +78,7 @@ They told the VP that I must present my demo to the American dealers. The confer
 
 To make a long story short, people heard me speaking. Their curiosity was piqued by something happening that was not on the program. By 9am the auditorium was full. I received a standing ovation. It turns out that if you can sell to the Chinese you can sell to anyone.
 
-See []"The Successful Demo"](https://www.youtube.com/watch?v=9qoL1OraC5g) for more details.
+See ["The Successful Demo"](https://www.youtube.com/watch?v=9qoL1OraC5g) for more details.
 
 To make an even longer story even shorter, in 1991 I moved my family to America and the mission, by invitation of Autodesk, was to design AutoCAD. I designed the first release of AutoCAD LT - the "lite" version. Then, with my colleague Jerry Ford (still with Autodesk), we designed three releases of AutoCAD — including the mega-hit AutoCAD Release 14.
 
