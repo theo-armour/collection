@@ -55,7 +55,7 @@ In my book, everybody is notable. If there is a right to be forgotten, then ther
 
 I have put some of them in a list here that I call "Peeps in My Family".
 
-See: https://theo-armour.github.io/genealogy/#2026-10-27-Peeps-in-My-Family.md
+See: https://theo-armour.github.io/genealogy/#Peeps-in-My-Family.md
 
 Much of the information stored in the bank boxes in my storage locker is about these people. These papers are the subject of the current request. Linking source items to these people comes later.
 
