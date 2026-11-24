@@ -141,6 +141,10 @@ The priority of this proposal is the digitization of all paper documents and phy
 
 ## Change Log
 
+### 2026-11-23
+
+* Major update to the content management app, TooToo, that runs all of this
+* Used Claude to do more proofreading.
 
 ### 2026-11-17
 
