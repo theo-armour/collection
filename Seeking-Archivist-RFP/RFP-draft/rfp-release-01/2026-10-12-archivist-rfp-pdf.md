@@ -7,7 +7,7 @@
 I'm looking for a Bay Area archivist to assess a large, mixed family and personal collection and write a master plan for it, and then, if we work well together, to lead the work that follows. I have spent my life as a designer. This archive is the design I most want to get right: free and open, useful to future generations, and a small experiment in what archiving and historiography may become in the age of AI.
 
 One item from the collection:<br>
-![Portrait of Empress Elizabeth of Russia in a carved gilt frame](Elizabeth-of-Russia-500px.jpg)<br>
+![Portrait of Empress Elizabeth of Russia in a carved gilt frame](../../../images/Elizabeth-of-Russia-500px.jpg)<br>
 *An 18th-century portrait of Empress [Elizabeth of Russia](https://en.wikipedia.org/wiki/Elizabeth_of_Russia). Her hands are missing because the canvas was cut from its frame when the Koudacheff family escaped St Petersburg in 1918.*
 
 I'd especially welcome a partner who wants to try things: AI-assisted description, open metadata on GitHub, whatever you've wanted to test and never had a client willing to let you.
@@ -107,4 +107,4 @@ The RFP that will be sent out will include a link to a web page supplemental pag
 
 <center>❧❧❧</center>
 <br>
-<center><img src="../theo-logo-32.svg" alt="Theo Armour Logo"></center>
+<center><img src="../../../assets/theo-logo-32.svg" alt="Theo Armour Logo"></center>

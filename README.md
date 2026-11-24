@@ -8,7 +8,7 @@ https://theo-armour.github.io/collection is a GitHub repository intended to be t
 
 ## Purpose of this Repository
 
-* Document and sharing the process of creating a template and enabling of online collections
+* Document and share the process of creating a template and enabling of online collections
 * Serve as a central hub for managing, maintaining, and sharing the collection
 * Act as a repository from which the material can be accessed and utilized
 * Act as a catalog for links to the collected items in other locations
@@ -18,7 +18,7 @@ https://theo-armour.github.io/collection is a GitHub repository intended to be t
 
 The repository is currently in the early stages of development.
 
-On 2026-11-17 I sent a short email to the West_Arch mailing list seeking an experienced personal archivist for a paid initial assessment of my family and personal papers. The text of the email is here: [Seeking-Archivist-RFP.md](https://theo-armour.github.io/collection/#Seeking-Archivist-RFP/Seeking-Archivist-RFP.md).
+On 2026-11-17 I sent a short email to the West_Arch mailing list seeking an experienced personal archivist for a paid initial assessment of my family and personal papers. The text of the email is here: [Seeking-Archivist-RFP.md](https://theo-armour.github.io/collection/#Seeking-Archivist-RFP/2026-11-17-Seeking-Archivist-RFP.md).
 
 The request is deliberately narrow: an assessment of the papers, with a phased plan and cost estimate. The rest of this page describes the wider collection. It is background for the assessment and possible material for later phases, not part of the current request.
 
@@ -53,7 +53,7 @@ Very much a work in progress.
 * Documents family history and lineage.
 * Maintains records of family members and their relationships.
 * Provides a structured and searchable archive of genealogical information.
-* Provides evidence of the possible notability of relevant family members For drafting future articles for Wikipedia
+* Provides evidence of the possible notability of relevant family members for drafting future articles for Wikipedia
 
 On Wikipedia, notability is a test used by editors to decide whether a given topic warrants its own article.
 
@@ -131,7 +131,7 @@ See [Hobart Appraisal Update 2024](https://drive.google.com/file/d/1ErPPqu1MZmlF
 
 ## Websites
 
-I used to maintain dozens of websites With their own .com URLs. Now almost all of my websites point to WordPress.com websites or to GitHub Pages websites.
+I used to maintain dozens of websites with their own .com URLs. Now almost all of my websites point to WordPress.com websites or to GitHub Pages websites.
 
 There are still some websites left on Dreamhost and Bluehost servers that I have not yet brought over to GitHub or wherever, so that effort is part of the whole archiving project.
 

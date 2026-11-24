@@ -7,7 +7,7 @@
 I'm looking for a Bay Area archivist to assess a large, mixed family and personal collection and write a master plan for it, and then, if we work well together, to lead the work that follows. I have spent my life as a designer. This archive is the design I most want to get right: free and open, useful to future generations, and a small experiment in what archiving and historiography may become in the age of AI.
 
 One item from the collection:<br>
-![Portrait of Empress Elizabeth of Russia in a carved gilt frame](../../images/Elizabeth-of-Russia-500px.jpg)<br>
+![Portrait of Empress Elizabeth of Russia in a carved gilt frame](../../../images/Elizabeth-of-Russia-500px.jpg)<br>
 *An 18th-century portrait of Empress [Elizabeth of Russia](https://en.wikipedia.org/wiki/Elizabeth_of_Russia). Her hands are missing because the canvas was cut from its frame when the Koudacheff family escaped St. Petersburg in 1918.*
 
 I'd especially welcome a partner who wants to try things: AI-assisted descriptions, open metadata on GitHub, whatever you've wanted to test and never had a client willing to let you.
@@ -26,7 +26,7 @@ I am not building an independent archive that I fund and staff. The aim is place
 * **Extent of documents:** about 200 linear feet, mostly in bank boxes, in two indoor storage units in San Francisco. There are also oversize architectural drawings.
 * **Art and objects:** about 30 works of art, several of which are museum quality, in a separate art storage facility, plus furniture and _objets d'art_. An older appraisal exists.
 * **Dates:** 1700s to the present, mostly from the 1970s onward.
-* **Formats:** letters, postcards, photographs, slides, negatives, architectural drawings (some large-format), business records, publications, clippings, notebooks, manuals, software, audio, and data media. A fuller list of source material types is in the [supplement](https://theo-armour.github.io/collection/#RFP-draft/Documents/source-material-types.md).
+* **Formats:** letters, postcards, photographs, slides, negatives, architectural drawings (some large-format), business records, publications, clippings, notebooks, manuals, software, audio, and data media. A fuller list of source material types is in the [supplement](https://theo-armour.github.io/collection/#Seeking-Archivist-RFP/RFP-draft/Documents/source-material-types.md).
 * **Born-digital:** files on hard drives, Dropbox, Google Drive, and GitHub. Legacy media is likely in the boxes, extent unknown: floppies, CDs/DVDs, audio and video tapes, and old software such as AutoCAD.
 * **Arrangement and condition:** order is quite mixed, with no reliable original order across boxes. There is some room in the units to open boxes. I know of no mold, pests, or water damage, but the survey should confirm this. [Photos of the storage units](https://photos.app.goo.gl/wtbCBGQZkpsRBS6v6).
 
@@ -114,13 +114,13 @@ Questions and an early conversation are very welcome. Thank you for reading. I h
 More detail lives in the collection's GitHub repository and website:
 
 * [The collection hub](https://theo-armour.github.io/collection) — purpose, status, and the parts of my life the collection touches
-* [Source material types](https://theo-armour.github.io/collection/#RFP-draft/Documents/source-material-types.md) — the kinds of things in the boxes
+* [Source material types](https://theo-armour.github.io/collection/#Seeking-Archivist-RFP/RFP-draft/Documents/source-material-types.md) — the kinds of things in the boxes
 * [Photos of the storage units](https://photos.app.goo.gl/wtbCBGQZkpsRBS6v6)
-* [Peeps in My Family](https://theo-armour.github.io/genealogy/#2026-10-27-Peeps-in-My-Family.md) — biographical notes on the family members
+* [Peeps in My Family](https://theo-armour.github.io/genealogy/#Peeps-in-My-Family.md) — biographical notes on the family members
 * [Art collection](https://evereverland.github.io/2019/#everlandings/theo-armour/README.md)
 * [Furniture and personal items appraisal](https://drive.google.com/file/d/1ErPPqu1MZmlFBbtBGNv6Hy6s8zPIF1uj/view?usp=sharing)
 * [About Theo](https://theo-armour.github.io/)
 
 <center>❧❧❧</center>
 <br>
-<center><img src="../../assets/theo-logo-32.svg" alt="Theo Armour Logo" style="width: 32px;"></center>
+<center><img src="../../../assets/theo-logo-32.svg" alt="Theo Armour Logo" style="width: 32px;"></center>

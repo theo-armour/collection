@@ -7,7 +7,7 @@ This document provides an overview and instructions related to the RFP (Request 
 * 2026-11-17
 * RFP sent to west_arch@lists.berkeley.edu
 
-Note: the draft releases below, in [RFP-draft](RFP-draft/), are superseded by [Seeking-Archivist-RFP.md](Seeking-Archivist-RFP.md). The dates in those drafts (for example, November 30, 2026 and January 15, 2027 in release 0.2) no longer apply. The current reply-by date is December 15, 2026.
+Note: the draft releases below, in [RFP-draft](RFP-draft/), are superseded by [2026-11-17-Seeking-Archivist-RFP.md](2026-11-17-Seeking-Archivist-RFP.md). The dates in those drafts (for example, November 30, 2026 and January 15, 2027 in release 0.2) no longer apply. The current reply-by date is December 15, 2026.
 
 ## RFP Draft Release 0.2
 

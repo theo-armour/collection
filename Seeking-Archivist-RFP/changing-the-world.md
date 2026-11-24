@@ -1,10 +1,11 @@
 # Changing the World
 
-Theo Armour ~ r3 ~ 2026-11-17
+* Theo Armour ~ r4 ~ 2026-11-23
+* Theo Armour ~ r3 ~ 2026-11-17
 
 I have changed the world three times.
 
-Not everyone can say that. It is a statement that is both intentionally facetious and yet has a truthiness somewhere. Even my most self-deprecating self admits that it probably important to take credit for the good things that one believes one has done. So let me justify this statement. Or perhaps I should say, "Let **us** justify this statement" because a lot of this archiving project you may well be involved with is about finding meaning, exploring the lessons learned and simply recording for the history books some events of possible interest. And so often these aspects are revealed via being involved in a great dialogue.
+Not everyone can say that. It is a statement that is both intentionally facetious and yet has a truthiness somewhere. Even my most self-deprecating self admits that it is probably important to take credit for the good things that one believes one has done. So let me justify this statement. Or perhaps I should say, "Let **us** justify this statement" because a lot of this archiving project you may well be involved with is about finding meaning, exploring the lessons learned and simply recording for the history books some events of possible interest. And so often these aspects are revealed via being involved in a great dialogue.
 
 ***
 
@@ -20,15 +21,15 @@ Toward the end of that era, I realized I was not an English person, and I became
 
 Instead, I decided to move to Asia. There was a feeling, especially about going to mainland China and being part of the revolution. I had no defined plan. I've never been a deep reader of communist philosophy or anything like that. But somehow I felt a need to help renew, rebuild, or rehabilitate. To a certain extent, perhaps, as I had done in London, but on a larger scale. But I also wanted to build skyscrapers. I wanted to be part of something new, energetic, and growing.
 
-It's actually taken me decades to realize this, but I actually fulfilled my dream. In a sense, I did became part of the revolution. I became part of the rebuilding of Asia. I became part of the building of skyscrapers. I became part of the building of factories. I became part of the building of a new world.
+It's actually taken me decades to realize this, but I actually fulfilled my dream. In a sense, I did become part of the revolution. I became part of the rebuilding of Asia. I became part of the building of skyscrapers. I became part of the building of factories. I became part of the building of a new world.
 
 ### Hong Kong and China
 
-My first trip to China was in 1978. Mainland China was still running trains with steam engines and could barely take care of itself. My new wife and I moved to Hong Kong in 1991. By 1991, after living in Hong Kong for ten years, China was beginning to be the industrial powerhouse of the world.
+My first trip to China was in 1978. Mainland China was still running trains with steam engines and could barely take care of itself. My new wife and I moved to Hong Kong in 1981. By 1991, after living in Hong Kong for ten years, China was beginning to be the industrial powerhouse of the world.
 
 In 1978 all writing, calculating, and drawing in China was done on paper. By 1991 China was the world's largest producer of computers - designed and built using the computers they made.
 
-I became very much a part of this. In my early days in Hong Kong, I was number 3 on a team of 75 designing 12 subway stations in Hong Kong. All the architecture work was on A0-size paper drawings created by draftsman. Much of the engineering work was done on the computer. We architects had a lot of trouble keeping up.
+I became very much a part of this. In my early days in Hong Kong, I was number 3 on a team of 75 designing 12 subway stations in Hong Kong. All the architecture work was on A0-size paper drawings created by draftsmen. Much of the engineering work was done on the computer. We architects had a lot of trouble keeping up.
 
 By 1983, having a glimpse of the future, I had quit my job as an architect and started working as a computer-aided design consultant. First, on IBM mainframes, and then the IBM PCs arrived.
 
@@ -52,7 +53,7 @@ It's impossible for me to know how much of an influence I was. I certainly was t
 
 Would they have learned how to do this without me? Of course.
 
-Nonetheless, I think it is fairly safe to say that I helped China learn how to build factories. And once the factories were built, learn how to design things to make and thus factories. The same is true for building hospitals and highways and almost anything you can design.
+Nonetheless, I think it is fairly safe to say that I helped China learn how to build factories. And once the factories were built, to learn how to design things the factories wanted to produce. The same is true for building hospitals and highways and almost anything you can design.
 
 And in doing so, I helped China become the industrial colossus it is today, which in turn has changed the world.
 
@@ -64,7 +65,7 @@ I can't think of another Westerner doing anything like I was doing.
 
 In any case many others were there for the salaries and commissions. I was there for the fun of it. I was there to help people learn how to use computers. I was there to help people learn how to design things on a computer screen. I was there to help people learn how to build factories and buildings and hospitals and highways and whatever. I was there to help people learn how to design things to make and thus factories and whatever.
 
-I had inherited $250,000 from may great aunt. I was not there for the pay. I was there to start something.
+I had inherited $250,000 from my great aunt. I was not there for the pay. I was there to start something.
 
 ## Second Change
 
@@ -82,7 +83,7 @@ See ["The Successful Demo"](https://www.youtube.com/watch?v=9qoL1OraC5g) for mor
 
 To make an even longer story even shorter, in 1991 I moved my family to America and the mission, by invitation of Autodesk, was to design AutoCAD. I designed the first release of AutoCAD LT - the "lite" version. Then, with my colleague Jerry Ford (still with Autodesk), we designed three releases of AutoCAD — including the mega-hit AutoCAD Release 14.
 
-In the early 1990s most every architect and engineer in the world was drawing on paper, by 2000 most every architect and engineer in the world was drawing on a computer screen. And most of them were using AutoCAD Release 14. A program I helped with design, build and ship.
+In the early 1990s most every architect and engineer in the world was drawing on paper, by 2000 most every architect and engineer in the world was drawing on a computer screen. And most of them were using AutoCAD Release 14. A program I helped design, build and ship.
 
 ### The Move to America
 
@@ -95,7 +96,7 @@ In the early 1990s most every architect and engineer in the world was drawing on
 
 From the early 2000s to 2010 I was sort of lost. I lost my shirt as an angel investor, I tried to help talented artists build web sites of interest, but they could not even remember their lost passwords, I joined the Board of Advisors of the Peggy Guggenheim Collection, but the other advisors were simply old people.
 
-So, I decided to change the world again or something. Interactive 3D in your browser was the shtick. After deep due diligence I decided the [**Three.js**](https://threejs.org/) JavaScript library was it. In 2012 I wrote a long email to the [**WebGL**](https://www.khronos.org/webgl/) developer group extolling the virtues of Three.js in comparison to the other libraries available of the time. After that, once again I was building demos - my ultimate joy. Google was organized seminars to promote WebGL. In the mid-2010s, Google invited me to present my latest efforts at a number of WebGL-based seminars. All my demos are published, free and open source, and on the web. To this day, Three.js, the JavaScript library that simplifies creating 3D web apps is on everybody's list of the best JavaScript libraries. Much of the 3D on the web today is because of Three.js, or because of it, people learned to program in 3D. And I helped the world begin to learn about Three.js.
+So, I decided to change the world again or something. Interactive 3D in your browser was the shtick. After deep due diligence I decided the [**Three.js**](https://threejs.org/) JavaScript library was it. In 2012 I wrote a long email to the [**WebGL**](https://www.khronos.org/webgl/) developer group extolling the virtues of Three.js in comparison to the other libraries available of the time. After that, once again I was building demos - my ultimate joy. Google organized seminars to promote WebGL. In the mid-2010s, Google invited me to present my latest efforts at a number of WebGL-based seminars. All my demos are published, free and open source, and on the web. To this day, Three.js, the JavaScript library that simplifies creating 3D web apps is on everybody's list of the best JavaScript libraries. Much of the 3D on the web today is because of Three.js, or because of it, people learned to program in 3D. And I helped the world begin to learn about Three.js.
 
 ## Conclusion
 
