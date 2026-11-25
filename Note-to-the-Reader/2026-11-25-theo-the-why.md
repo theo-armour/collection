@@ -20,8 +20,8 @@ Here is the best result after an all day of trying and using up most of my month
 
 * https://flow.google.com/shared/video/115c7fe3-ce5a-4044-acff-bafa21c1a1cb
 
-<video controls wheight="360">
-  <source src="Man_comforting_bewildered_desk_w…_4b0c9f4d.mp4" type="video/mp4">
+<video controls width="640" height="360">
+  <source src="images/Man_comforting_bewildered_desk_w…_4b0c9f4d.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
