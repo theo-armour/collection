@@ -20,13 +20,23 @@ Here is the best result after an all day of trying and using up most of my month
 
 * https://flow.google.com/shared/video/115c7fe3-ce5a-4044-acff-bafa21c1a1cb
 
-<video controls width="640" height="360">
+<video controls width="1280" height="720">
   <source src="images/Man_comforting_bewildered_desk_w…_4b0c9f4d.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-
 One of the issues was that the video clips generated are max 15 seconds each. It would take multiple clips to include all the text. There are ways of combining the clips, but I never quite figured out how to do it properly. YET!
+
+16:15 Another hiccup. Getting the video to display in my new content management system proves to be more challenging than expected.
+
+16:54
+
+Issues with content management solved, I think. Anyway, the video is now appearing on my computer.
+
+Now to try and remember what I was supposed to do today and get on with it. 
+
+Here are the prompts I used to generate the video content.
+
 
 ## Prompt 1
 
