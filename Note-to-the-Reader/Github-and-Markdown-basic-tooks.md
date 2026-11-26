@@ -1,4 +1,4 @@
-# GitHub and Markdown Basic Tools
+# Markdown, Github and VS Code: Basic Tools
 
 * Documentation Format of Choice: Markdown
 * Data repository of choice: GitHub
@@ -6,3 +6,4 @@
 * Data: JSONL, JSON, TOON?, CSV
 * PDFs: Ugh
 * Deliverables to: GitHub, Archive.org, Permanent.org, ??
+
