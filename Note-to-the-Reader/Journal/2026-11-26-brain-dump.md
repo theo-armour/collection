@@ -46,5 +46,8 @@ You can access petabytes of data using Wikipedia search. They seem to know what 
 
 **Wacky thought** Every DNA in every cell is pretty much a close copy of DNA that's over 3 billion years old. DNA is extremely successful at replicating knowledge over vast spans of time. AI would be stupid not to piggyback on such a success.
 
-.
+**Remember the 3x5 card**
+
+Very often, I append new data to the end of a file. What I usually find out is that the file becomes too long and that it takes too long to find the little thought that I was looking for in the middle of a long piece of text. It's probably better to make a folder of things and have lots of little files that are easier to tag and search. Just like the old-time 3x5 card
+
 
