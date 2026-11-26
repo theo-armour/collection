@@ -34,10 +34,17 @@ You can access petabytes of source data using GitHub search. They seem to know w
 * https://github.com/search/advanced
 * https://docs.github.com/en/search-github/getting-started-with-searching-on-github/about-searching-on-github
 
-## Follow wikipedia
+**Follow wikipedia**
 
 You can access petabytes of data using Wikipedia search. They seem to know what they're doing.
 
 * https://www.wikipedia.org/
 * https://en.wikipedia.org/wiki/Special:Search
 * https://en.wikipedia.org/wiki/Wikipedia:Contents
+
+**Follow what?** It's not just about following GitHub and Wikipedia search capabilities. It's about how they store data, share data, promote data, and a bunch of other stuff on such a massive total scale. The other aspect is that they are modern. They are dealing with AI in modern, fresh, future-oriented ways. It's another way of looking at things that's different from Dublin Core, Library of Congress catalogs, and 3x5 cards. Putting my cards on the table, I'm much more invested in future-oriented ways. Even so, I will be delighted to learn about long-standing alternatives. Hm, and can we embed our knowledge in DNA?
+
+**Wacky thought** Every DNA in every cell is pretty much a close copy of DNA that's over 3 billion years old. DNA is extremely successful at replicating knowledge over vast spans of time. AI would be stupid not to piggyback on such a success.
+
+.
+

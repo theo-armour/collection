@@ -1,5 +1,10 @@
 # Artificial Intelligence
 
+This folder is for putting any thoughts I have on AI in a tidy place where I can find it again without having to put too much thought into finding it again
+
+Fingers crossed it stirs up some thoughts in your brain where you can challenge my thinking.
+
+
 ## Update 2026-11-25
 
 Theo> I have been playing with artificial intelligence at least since December 20, 2021. I started using ChatGPT in November 2022. I currently use Anthropic's Fable 5.2 every day. Ditto, ChatGPT, Microsoft Copilot, and Google Antigravity/Gemini.
