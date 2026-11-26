@@ -8,23 +8,7 @@
 
 ## Sub-folders
 
-### GitHub & Markdown
 
-* Documentation Format of Choice: Markdown
-* Data repository of choice: GitHub
-* Images: PNG. JPG
-* Data: JSONL, JSON, TOON?, CSV
-* PDFs: Ugh
-* Deliverables to: GitHub, Archive.org, Permanent.org, ??
-
-### Genealogy
-
-* “TV is like theater. You can’t enjoy it without a program.” — Walter Annenberg
-* The classic, signature cry used by stadium hawkers is "Get your programs! Can't tell the players without a scorecard!"
-
-### AI
-
-* I will be distracted by all new information and ideas.
 
 
 ### Goals
@@ -35,10 +19,9 @@
 
 ### First Meeting Agenda
 
-* Collection Surveying
+* Collection Surveying: template?
 * Provenance of the collection
 * Ascertaining what I know and don't know about archiving
-
 * Overview of collection
 * Discussion of digitization plans
 * Setting timelines and responsibilities
@@ -80,3 +63,18 @@
 * Andrew Collins: set date 12/4?
 * Haley-McGlyn: set date ?? @ the Interval
 
+### 2026-11-25
+
+#### Genealogy: started
+
+* “TV is like theater. You can’t enjoy it without a program.” — Walter Annenberg
+* The classic, signature cry used by stadium hawkers is "Get your programs! Can't tell the players without a scorecard!"
+
+#### GitHub & Markdown: started
+
+* Documentation Format of Choice: Markdown
+* Data repository of choice: GitHub
+* Images: PNG. JPG
+* Data: JSONL, JSON, TOON?, CSV
+* PDFs: Ugh
+* Deliverables to: GitHub, Archive.org, Permanent.org, ??
