@@ -4,13 +4,6 @@
 
 
 
-## On Collection: Create Notes Folder
-
-## Sub-folders
-
-
-
-
 ### Goals
 
 * Digitization of everything
@@ -65,10 +58,14 @@
 
 ### 2026-11-25
 
+#### On Collection: Create Notes Folder and Sub-folders
+
 #### Genealogy: started
 
 * “TV is like theater. You can’t enjoy it without a program.” — Walter Annenberg
 * The classic, signature cry used by stadium hawkers is "Get your programs! Can't tell the players without a scorecard!"
+
+#### AI: started
 
 #### GitHub & Markdown: started
 

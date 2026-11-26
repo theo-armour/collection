@@ -8,6 +8,8 @@ Therefore, for better or for worse, AI is very much a part of my being.
 
 I use it to proofread, to finish sentences, to come up with new ideas, and for all sorts of daily help, as well as programming.
 
+So it's good for you to know this about me. And that said, I hope that I can be very accommodating with people who are not comfortable with my ways of thinking.
+
 One of the things I like to do is separate my writing from AI writing. I will try and do that when I write in these pages. as well as identifying who is doing the writing.
 
 There's a lot more to write. I could write a lot about how I use AI, but I think the more fun question is, "How will archivists use AI?" Since I'm not an archivist, I ask AI to answer this question.
