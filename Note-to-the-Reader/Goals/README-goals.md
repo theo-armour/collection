@@ -128,8 +128,8 @@ A few of the items I might wish to keep myself until I die
 A few of the items may be picked up by my children or another of the relatives.
 Otherwise, it's finding new homes for old things.
 
-## Values (?)
+## Values / Policies / Procedures
 
 * Closely follow archiving standards
-* Preserves historical context
-* Create and maintain afinding aid, map of the collection
+* Preserve historical context
+* Create, maintain and update finding aids, map of the collection
