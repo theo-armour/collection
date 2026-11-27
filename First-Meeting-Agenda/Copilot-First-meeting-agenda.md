@@ -1,4 +1,4 @@
-# CopilotFirst Meeting Agenda
+# Copilot: First Meeting Agenda
 
 ## Purpose
 

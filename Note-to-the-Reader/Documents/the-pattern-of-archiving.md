@@ -44,7 +44,6 @@ A professional archivist uses established systems and services to archive the do
 
 ### The Solution: Scan everything that can be kept
 
-
 ### Pattern 3: Document the process
 
 ## Pattern 4: Make it visible

@@ -1,4 +1,4 @@
-# Archivists Agenda
+# Claude: Archivists Agenda
 
 ## 2026-11-25 First meeting agenda (~60 min)
 
