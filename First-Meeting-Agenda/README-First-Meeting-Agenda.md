@@ -14,6 +14,7 @@ To be read in conjunction with:
 
 * May I record this meeting?
 * May I publish our correspondence?
+* Important: I prefer openness over privacy. Easier to seek forgiveness, then beg for permission. -Grace Hopper. And I understand and accept that other people feel very differently.
 * What skills and expertise can you bring to the project?
 * Do you have easy access to a car?
 * What are your goals for this project?
