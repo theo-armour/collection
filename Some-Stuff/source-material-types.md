@@ -64,7 +64,6 @@ The collection consists of a lot of different media types. We will be able to ad
 
 ## Physical Objects
 
-* Physical objects
+* Furniture
 * Memorabilia
-
-
+* Physical objects

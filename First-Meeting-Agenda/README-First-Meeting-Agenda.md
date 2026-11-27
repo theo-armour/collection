@@ -4,7 +4,7 @@ Update 2026-11-26
 
 The headings are the things we should cover. The bullets are just suggestions for aspects that might be discussed. I assume we could spend about an hour plus on this first effort.
 
-There are twoother files in this folder. They are copies of how different AI apps responded to what a "What should be in a first meeting agenda" prompt.
+There are two other files in this folder. They are copies of how different AI apps responded to what a "What should be in a first meeting agenda" prompt.
 
 To be read in conjunction with:
 
