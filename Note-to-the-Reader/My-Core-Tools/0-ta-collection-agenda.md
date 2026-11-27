@@ -2,6 +2,8 @@
 
 ## Agenda Items To be Added
 
+Question: Practicality and common usage of EXIF data To add metadata info to archived images?
+
 ### Communications
 
 * Message to all respondents
