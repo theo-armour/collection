@@ -4,11 +4,13 @@
 
 Question: Practicality and common usage of EXIF data To add metadata info to archived images?
 
+We need to measure how many linear feet of books and other archival materials we have.
+
 ### Communications
 
 * Message to all respondents
 * Follow-up communications plan
-* OK to Publish
+* OK to Publish?
 * We'll keep you on the mailing list.
 * Good chance we will need everybody's networking help.
 

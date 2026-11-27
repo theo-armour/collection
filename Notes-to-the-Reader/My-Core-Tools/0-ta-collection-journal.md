@@ -1,5 +1,13 @@
 # Journal
 
+## 2026-11-26
+
+Major update: added the Notes to Reader section with lots of new files and new text.
+
+Created first meeting agenda. Added initial list of agenda items and working together principles.
+
+Sent an email to Andrew Collins with a link to the agenda.
+
 ## 2026-11-24
 
 ### Messages Sent
