@@ -12,14 +12,6 @@ Question: Practicality and common usage of EXIF data To add metadata info to arc
 * We'll keep you on the mailing list.
 * Good chance we will need everybody's networking help.
 
-### Goals
-
-* Digitization of everything
-* Finding new homes for old things
-* Forever (for me)project
-* Closely follow archiving standards
-* Preservation of historical context
-* 3D Scans
 
 #### Working Together Principles
 

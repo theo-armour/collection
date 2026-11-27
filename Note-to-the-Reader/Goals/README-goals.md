@@ -2,7 +2,7 @@
 
 Here are thoughts about things like mission, vision, values, objectives, what we want to do, and issues we face, maybe as well.
 
-Here are some topics to be filled in.
+Here are some topics to be filled in with more detail at a later date.
 
 ## Vision
 
@@ -94,6 +94,7 @@ I have a history of writing all over the place on all manner of things. Maybe th
 
 ### Entirely Digital Archive
 
+* **Everything** is scanned or photographed or otherwise digitized
 * Hosted on GitHub.
 * Hosted on archive.org
 * Other online hosting platforms as decided
@@ -125,3 +126,10 @@ For most of the actual physical objects themselves, I could care less. Obviously
 
 A few of the items I might wish to keep myself until I die
 A few of the items may be picked up by my children or another of the relatives.
+Otherwise, it's finding new homes for old things.
+
+## Values (?)
+
+* Closely follow archiving standards
+* Preserves historical context
+* Create and maintain afinding aid, map of the collection
