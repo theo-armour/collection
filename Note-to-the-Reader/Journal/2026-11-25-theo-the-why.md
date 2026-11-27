@@ -37,7 +37,6 @@ Now to try and remember what I was supposed to do today and get on with it.
 
 Here are the prompts I used to generate the video content.
 
-
 ## Prompt 1
 
 Theo is sitting at his desk, looking at his computers with a dazed expression and shaking his head. Natalis de Wailly Enters the picture. and puts his hand on Theo's shoulder. Theo is startled. Natalie, in his 19th-century French-English accent  says, "Oh, I startled you. I'm sorry."
@@ -75,4 +74,8 @@ People often ask me, "Why do you archive? I reply 'because it is there.'"
 "Then I pause and say, 'And, well, nothing were there, there'd be nothing to archive.'"
 
 Natalis throws his hands up in the air and giggles in a wonderful French way.
+
+## 2026-11-26 Addendum
+
+So why am I doing this? Because it makes me happy, feeling useful and keeping me busy. r something like that. ;-)
 

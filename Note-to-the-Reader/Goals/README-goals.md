@@ -1,5 +1,7 @@
 # Goals
 
+"A free, open, lasting archive of one ordinary family's life, for Lou and for historians of the future." - AI
+
 Here are thoughts about things like mission, vision, values, objectives, what we want to do, and issues we face, maybe as well.
 
 Here are some topics to be filled in with more detail at a later date.
@@ -130,6 +132,12 @@ Otherwise, it's finding new homes for old things.
 
 ## Values / Policies / Procedures
 
+* As much as possible, as much as reasonable, everything is public, Everything is open. Everything is public domain.
 * Closely follow archiving standards
 * Preserve historical context
 * Create, maintain and update finding aids, map of the collection
+* AI text read by AI is identified.
+
+## Review and Assessment
+
+* Needs targets and metrics?
