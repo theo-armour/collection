@@ -31,4 +31,21 @@ https://en.wikipedia.org/wiki/More_Product,_Less_Process
 
 * https://www2.archivists.org/consultants?tid=&province_1=california
 
-#
+## Finding Aids
+
+* https://github.com/saa-ts-dacs
+* https://www2.archivists.org/sites/all/files/TMOF%20Cataloging%20Guide_internal.pdf
+* https://en.wikipedia.org/wiki/Describing_Archives:_A_Content_Standard
+* https://www.aaa.si.edu/documentation/processing-guidelines-chapter-4-creating-finding-aids-at-the-archives-of-american-art
+
+### EAD
+
+* https://en.wikipedia.org/wiki/Encoded_Archival_Description
+* https://www2.archivists.org/groups/technical-subcommittee-on-encoded-archival-standards-ts-eas/encoded-archival-description-ead
+* https://www.loc.gov/ead/
+
+
+## DACS
+
+* https://en.wikipedia.org/wiki/Describing_Archives:_A_Content_Standard
+

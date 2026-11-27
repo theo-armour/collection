@@ -20,6 +20,8 @@ To be read in conjunction with:
 * What would you like to learn?
 * Why archive?
 * What is your archival dream?
+* Future engagement possibilities for the Julia Morgan Building and the San Francisco Ladies Protection Relief Society
+* GitHub user name?
 
 ## Terminology / Policies / Procedures
 
@@ -28,6 +30,8 @@ To be read in conjunction with:
 * Ways of documenting the process and progress of the project
 * Specific policies or procedures to follow during the project?
 * Guidelines or best practices to follow during the project?
+* Understanding and applying EAD and DACS in practice
+* Using AI in the archival process
 
 ## Collection Surveying
 
